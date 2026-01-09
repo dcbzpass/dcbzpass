@@ -41,25 +41,6 @@
 
 ---
 
-## 📊 Live GitHub stats (animated cards)
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=dcbzpass&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcbzpass&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=dcbzpass&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 📫 Contact
 
 - Discord: `bzpass`
