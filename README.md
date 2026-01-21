@@ -18,8 +18,8 @@
 <!-- ===================== BADGES ===================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dcbzpass&label=PROFILE+VIEWS&style=for-the-badge&color=22c55e" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=0ea5e9" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=111827" />
+  <img src="https://img.shields.io/github/followers/dcbzpass?style=for-the-badge&color=0ea5e9" />
+  <img src="https://img.shields.io/github/stars/dcbzpass?style=for-the-badge&color=111827" />
 </p>
 
 <!-- ===================== ABOUT ===================== -->
